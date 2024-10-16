@@ -14,6 +14,6 @@ services:
     environment:
       - PROFILE=dev
       - DATABASE_URL=jdbc:mysql://bd-fiap-api-dev-atv06.mysql.database.azure.com:3306/api?createDatabaseIfNotExist=true
-      - DATABASE_USER=root
-      - DATABASE_PWD=root_pass
+      - DATABASE_USER=lucasferreira999
+      - DATABASE_PWD=@Kuriboh25
 
