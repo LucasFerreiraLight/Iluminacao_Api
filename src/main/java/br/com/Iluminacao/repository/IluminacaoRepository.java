@@ -8,4 +8,4 @@ import org.springframework.stereotype.Repository;
 public interface IluminacaoRepository extends JpaRepository<Iluminacao, Long> {
 
 }
-// Teste 2
+// Teste 3
